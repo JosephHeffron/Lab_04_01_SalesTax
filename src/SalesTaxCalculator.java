@@ -11,5 +11,3 @@
             System.out.println("Sales tax (5%): $" + salesTax);
         }
     }
-
-}
